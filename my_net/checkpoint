@@ -1,0 +1,2 @@
+model_checkpoint_path: "target_net.ckpt-38000"
+all_model_checkpoint_paths: "target_net.ckpt-38000"
